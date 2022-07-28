@@ -1,0 +1,33 @@
+* {
+    padding: 0%;
+    box-sizing: border-box;
+    margin: 0%;
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 166, 0);
+    height: 50px;
+    border: 1px solid ;
+    margin-bottom: 60px;
+}
+h2 { 
+    color: sienna; 
+}
+body {
+    background-color: beige;
+    padding: 20px;
+    text-align: center;
+ 
+}
+img {
+    max-width: 600px;  
+    border-radius: 25px;
+}
+
+.A{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
